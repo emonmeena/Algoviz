@@ -1,0 +1,13 @@
+.grid {
+  margin: 0px 0 0;
+  /* position: absolute;
+margin: 0 auto; */
+text-align: center;
+}
+
+.btn{
+  width:100px;
+text-align: center;
+background-color: #1E90FF;
+outline-color: aquamarine;
+}
