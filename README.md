@@ -1,4 +1,4 @@
-# Path Finding Visualizer  -> Dijkstra's Algorithm
+# Path Finding Visualizer | Dijkstra's Algorithm
 
 Play - https://mayank-genesis.github.io/Path-finding-visualizer/
 
